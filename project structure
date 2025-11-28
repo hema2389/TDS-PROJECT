@@ -1,0 +1,13 @@
+llm-analysis-quiz/
+│
+├── app/
+│   ├── main.py
+│   ├── solver.py
+│   ├── browser.py
+│   ├── utils.py
+│   ├── models.py
+│   └── config.py
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
