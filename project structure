@@ -3,11 +3,14 @@ llm-analysis-quiz/
 ├── app/
 │   ├── main.py
 │   ├── solver.py
-│   ├── browser.py
+│   ├── fetcher.py   ← replaces browser.py
+│   ├── js_extract.py
 │   ├── utils.py
+│   ├── config.py
 │   ├── models.py
-│   └── config.py
 │
 ├── requirements.txt
+├── Dockerfile
+├── huggingface.yaml
 ├── README.md
 └── LICENSE
