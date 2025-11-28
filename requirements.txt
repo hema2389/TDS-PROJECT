@@ -1,9 +1,9 @@
 fastapi
 uvicorn
-playwright
 httpx
 pydantic
 beautifulsoup4
 pandas
 numpy
 python-multipart
+python-dateutil
